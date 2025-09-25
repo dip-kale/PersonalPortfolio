@@ -32,7 +32,7 @@ function Home() {
           and experience to contribute to the growth of Company.
         </p>
         <a
-          href="/DipResume.pdf"
+          href="/Resume.pdf"
           download
           className="bg-teal-400 text-gray-900 font-semibold px-6 py-2 rounded shadow hover:bg-teal-500 transition mb-6"
         >
