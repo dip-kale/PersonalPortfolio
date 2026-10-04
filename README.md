@@ -1,16 +1,24 @@
-# React + Vite
+# Dip Kale — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, single-page React portfolio for Dip Kale.
 
-Currently, two official plugins are available:
+## Highlights
+- Modern dark editorial UI with lime accent
+- Sticky responsive navigation with mobile menu
+- Hero, About, Skills, Experience, Projects, Education and Contact sections
+- Resume download using the updated `public/Resume.pdf`
+- Four portfolio projects: Snap Search, Program Outcome Assessment & Mapping System, Office Track and Data2Pdf
+- Resume-aligned skills and Softcurious Technologies internship experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run locally
 
-## React Compiler
+```bash
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Build
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run build
+```
